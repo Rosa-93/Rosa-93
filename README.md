@@ -1,4 +1,4 @@
-- 👋 Hola Soy Rosa
+👋 Hola Soy Rosa
 
 Soy QA y me dedico a garantizar la calidad en aplicaciones web y móviles, aportando experiencia en pruebas funcionales, automatización y mejora continua.
 
